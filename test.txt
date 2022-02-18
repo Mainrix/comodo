@@ -1,0 +1,8 @@
+ vue create static
+   82  cd static
+   83  npm run serve
+   84  npm run build
+   85  vue add axios
+   86  vue add vuex
+   87  vue add router
+   88  vue add vuetify

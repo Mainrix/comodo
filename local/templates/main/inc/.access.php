@@ -1,0 +1,14 @@
+<?
+$PERM["textPartner.php"]["5"]="W";
+$PERM["textAbout.php"]["5"]="W";
+$PERM["modalPopap.php"]["5"]="W";
+$PERM["instaBlock.php"]["5"]="W";
+$PERM["image1Partner.php"]["5"]="W";
+$PERM["image2About.php"]["5"]="W";
+$PERM["image1About.php"]["5"]="W";
+$PERM["footerContact.php"]["5"]="W";
+$PERM["copyright.php"]["5"]="W";
+$PERM["adres2Partner.php"]["5"]="W";
+$PERM["adres1Partner.php"]["5"]="W";
+$PERM["adres1About.php"]["5"]="W";
+?>
